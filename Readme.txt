@@ -1,0 +1,1 @@
+This is a project where the dataset of the global temperature registry should be investigated using SQL.
